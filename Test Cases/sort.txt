@@ -1,0 +1,55 @@
+main: 
+addi a0, x0, 100
+addi a1, x0, 5
+jal ra, sort
+fence
+
+swap:
+slli t1, a1, 2
+add t1, a0, t1
+lw t0, 0(t1)
+lw t2, 4(t1)
+sw t2, 0(t1) 
+sw t0, 4(t1)
+jalr x0, 0(ra)
+
+sort:
+addi sp, sp, -20 
+sw ra, 16(sp) 
+sw s3, 12(sp) 
+sw s2, 8(sp) 
+sw s1, 4(sp) 
+sw s0, 0(sp) 
+
+addi s2, a0, 0 
+addi s3, a1, 0 
+addi s0, zero, 0 
+
+loop1:
+bge s0, s3, exit1 
+addi s1, s0, -1 
+
+loop2: 
+blt s1, x0, exit2 
+slli t1, s1, 2 
+add t2, s2, t1 
+lw t3, 0(t2) 
+lw t4, 4(t2) 
+bge t4, t3, exit2 
+addi a0, s2, 0 
+addi a1, s1, 0 
+jal ra, swap 
+addi s1, s1, -1 
+beq x0, x0, loop2 
+exit2:
+addi s0, s0, 1 
+beq x0, x0, loop1 
+	
+exit1: 
+lw s0, 0(sp) 
+lw s1, 4(sp) 
+lw s2, 8(sp) 
+lw s3, 12(sp) 
+lw ra, 16(sp) 
+addi sp, sp, 20 
+jalr x0, 0(ra)

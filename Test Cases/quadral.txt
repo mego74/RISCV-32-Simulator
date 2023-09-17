@@ -1,0 +1,10 @@
+main:
+addi a0, x0, 200
+lw a1, 0(a0)
+jal ra, qaudrl
+ecall
+
+qaudrl:
+addi t1, x0, 4
+mul a1, t1, a1
+jalr x0, 0(ra)

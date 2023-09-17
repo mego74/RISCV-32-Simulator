@@ -1,0 +1,60 @@
+﻿  Source.cpp
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(449,21): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(463,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(477,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(491,21): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(541,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(546,21): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(569,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(721,21): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(751,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(785,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(852,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(955,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1050,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1155,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1198,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1240,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1282,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1324,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1366,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1406,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1441,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1476,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1511,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1546,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1581,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1676,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1709,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1742,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1777,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1817,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1857,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1892,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1927,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1961,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(1995,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2029,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2226,21): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2254,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2350,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2446,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2546,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2568,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2585,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2685,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2705,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2722,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2822,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2842,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2859,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(2958,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(3057,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(3069,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(3080,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(3113,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(3148,20): warning C4018: '<': signed/unsigned mismatch
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(3386,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(3408,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Spring 2023\Assembly\First Project\Project1_Assembly\Project1_Assembly\Source.cpp(702): warning C4715: 'getregister': not all control paths return a value
+  Project1_Assembly.vcxproj -> D:\Spring 2023\Assembly\First Project\Project1_Assembly\Debug\Project1_Assembly.exe
